@@ -51,3 +51,12 @@ npm run dev
 ```
 
 Frontend runs on `http://127.0.0.1:5173` and proxies `/api` to the backend.
+
+<img width="1340" height="602" alt="image" src="https://github.com/user-attachments/assets/34f84709-299e-42e7-8995-38b0e02c79fb" />
+
+<img width="1275" height="603" alt="image" src="https://github.com/user-attachments/assets/409ce3ab-64c2-4f3e-bd0c-b2221d0af4d6" />
+
+<img width="1221" height="310" alt="image" src="https://github.com/user-attachments/assets/4f3fc16e-5f37-4407-8105-d540b4b8a0ee" />
+
+
+
